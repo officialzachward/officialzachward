@@ -1,2 +1,4 @@
 # Hi, I'm Zach! 👋
-![name](name.png)
+![name](name.png)  
+**About Me** 
+
